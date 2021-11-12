@@ -37,7 +37,8 @@ jobs:
         with:
           name: python-app
           path: |
-            . 
+            .
+            tuclinica/ 
             !venv/
 
   deploy:
