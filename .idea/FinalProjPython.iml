@@ -28,6 +28,8 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/admin/templates" />
+        <option value="$MODULE_DIR$/application/templates" />
+        <option value="$MODULE_DIR$/tuclinica/templates" />
       </list>
     </option>
   </component>

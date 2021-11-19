@@ -2,7 +2,8 @@ from django.shortcuts import render
 
 
 def login(request):
-    return render(request, 'login.html')
+    return render(request, 'login-ad.html')
+
 
 def dashboard(request):
-    return render(request, 'dashboard.html')
+    return render(request, 'dashboard-ad.html')
